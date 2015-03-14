@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:wicket="http://wicket.apache.org/dtds.data/wicket-xhtml1.4-strict.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Insert title here</title>
+</head>
+<body>
+	<wicket:panel>
+		<div id="chartPanel" style="float: left;padding: 10px">
+			<canvas id="habLine" width="300" height="200" >Your browser no canvas.</canvas>
+			<br />
+			<canvas id="habIncomingPie" width="300" height="200" >Your browser no canvas.</canvas>
+			<br />
+			<canvas id="habExpensePie" width="300" height="200" >Your browser no canvas.</canvas>
+		</div>
+		<script type="text/javascript">
+		$(function() {
+			var hc = $.clxychart("#habLine");
+			hc.add({
+				type : 'line',
+				datas : [ {x : 1, y : 5}, {x : 2,	y : 3}, {x : 3,	y : 9}, {x : 6,	y : 6}, {x : 5,	y : 5}, {x : 4,	y : 3} ]
+			});
+			hc.add({
+				type : 'line',
+				datas : [ {x : 20, y : 120}, {x : 80, y : 80}, {x : 120, y : 130}, {x : 160, y : 100}, {x : 200, y : 80}, {x : 280, y : 120} ]
+			}).draw();
+
+			var hc1 = $.clxychart("#habIncomingPie");
+			hc1.add({
+				type : 'pie',
+				datas : [ {value : 0.1}, {value : 0.2}, {value : 0.25}, {value : 0.15} , {value : 0.2}, {value : 0.05}]
+			}).draw();
+			
+			var hc2 = $.clxychart("#habExpensePie");
+			hc2.add({
+				type : 'pie',
+				datas : [ {value : 0.1}, {value : 0.2}, {value : 0.3}, {value : 0.4} ]
+			}).draw();
+		});
+		</script>
+		<div id="searchPanel" style="float: right;">
+			<input type="text" autofocus="true" placeholder="yyyy.mm.dd" />
+			 - 
+			<input type="text" placeholder="yyyy.mm.dd" />
+			<input type="button" class="blue" value="適用" />
+			<br />
+			<input type="radio"	name="searchType" value="all" id="typeAll" checked="checked" />
+			<label for="typeIncome">全部</label>
+			<input type="radio" name="searchType" value="expense" id="typeExpense" />
+			<label for="typeExpense">支出</label>
+			<input type="radio" name="searchType" value="income" id="typeIncome" />
+			<label for="typeIncome">収入</label>
+			<table id="searchResult">
+				<thead>
+					<tr>
+						<th colspan="2">合計：</th>
+						<th>180</th>
+						<th></th>
+						<th></th>
+					</tr>
+					<tr>
+						<th>日付</th>
+						<th>項目</th>
+						<th>金額</th>
+						<th></th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>2011.04.20</td>
+						<td>支出：家賃</td>
+						<td>2,000</td>
+						<td><input type="button" class="blue" value="編集" />
+						</td>
+						<td><input type="button" class="pink" value="削除" />
+						</td>
+					</tr>
+					<tr>
+						<td>2011.04.03</td>
+						<td>支出：食事</td>
+						<td>60</td>
+						<td><input type="button" class="blue" value="編集" />
+						</td>
+						<td><input type="button" class="pink" value="削除" />
+						</td>
+					</tr>
+					<tr>
+						<td>2011.04.02</td>
+						<td>支出：ガス代</td>
+						<td>60</td>
+						<td><input type="button" class="blue" value="編集" />
+						</td>
+						<td><input type="button" class="pink" value="削除" />
+						</td>
+					</tr>
+					<tr>
+						<td>2011.04.01</td>
+						<td>収入：給料</td>
+						<td>60</td>
+						<td><input type="button" class="blue" value="編集" />
+						</td>
+						<td><input type="button" class="pink" value="削除" />
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+	</wicket:panel>
+</body>
+</html>

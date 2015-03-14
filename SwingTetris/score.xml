@@ -1,0 +1,6292 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_13" class="java.beans.XMLDecoder"> 
+ <object class="java.util.ArrayList"> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890404473</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>989</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890321501</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511406</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>801</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511336</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101877</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>801</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101807</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091906</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>801</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091836</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896558194</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>801</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896558093</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898211246</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>800</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898211176</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898210575</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>800</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898210536</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898209264</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>800</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898209209</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897520591</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>800</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897520521</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514598</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>800</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514529</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098048</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>800</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097979</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097519</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>800</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097449</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>4</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708444</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>800</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708373</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516359</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>501</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516290</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101098</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>501</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101029</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896559974</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>501</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896559905</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898209700</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898209630</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208016</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898207945</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object id="Score0" class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898206971</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898206917</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object idref="Score0"/> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511779</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511710</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098219</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098150</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896709349</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896709279</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object id="Score1" class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705153</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705083</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object idref="Score1"/> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125692</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125622</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603414</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603344</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>3</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602339</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>500</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602222</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>2</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895958153</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>379</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895939562</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897047804</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>348</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897039662</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>2</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898207610</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>300</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898207540</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>2</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896709520</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>300</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896709450</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>2</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122395</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>300</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122326</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890657972</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>215</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890649105</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>1</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895933361</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>173</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895905752</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object id="Score2" class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890647350</long> 
+     </object> 
+    </void> 
+    <void property="pauseCount"> 
+     <int>1</int> 
+    </void> 
+    <void property="point"> 
+     <int>127</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890631796</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object idref="Score2"/> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>1</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898210122</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>100</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898210067</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>1</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605551</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>100</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605481</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897082709</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>70</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897078673</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897068707</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>34</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897063173</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>8</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604397</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>31</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604326</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894601215</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>29</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894587053</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897498550</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>27</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897487071</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516157</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>20</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516088</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100118</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>16</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100048</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897061962</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>14</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897054897</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896993741</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>14</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896986956</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895785227</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>14</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895779692</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890621926</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>14</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890614521</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897508070</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>13</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897500010</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091703</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>13</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091649</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896694429</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>13</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896685051</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>9</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518148</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>12</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518078</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>6</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097691</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>8</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097620</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512933</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>5</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512863</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>8</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100896</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>5</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100827</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897094244</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>5</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897094174</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>12</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896562245</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>5</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896562175</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>8</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101674</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>4</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101604</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>20</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896557851</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>4</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896557703</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>2</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897094713</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>3</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897094643</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object id="Score3" class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>9</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897076605</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>3</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897069201</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object idref="Score3"/> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512154</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>2</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512084</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>7</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604880</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>2</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604810</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519113</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519044</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>10</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518927</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518857</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518336</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518266</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513120</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513050</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object id="Score4" class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>10</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510378</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510230</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object idref="Score4"/> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096445</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096375</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>7</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096242</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096172</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>7</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095478</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095407</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093465</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093395</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092686</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092616</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>10</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092483</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092413</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>12</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896562400</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896562330</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>6</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605208</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605138</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>6</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605052</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604982</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>10</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604553</long> 
+     </object> 
+    </void> 
+    <void property="point"> 
+     <int>1</int> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604498</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898211480</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898211410</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898211027</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898210973</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898210793</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898210739</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898210340</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898210270</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898209903</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898209849</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898209466</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898209396</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898209061</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208991</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208858</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208788</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208640</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208585</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208421</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208351</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208203</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898208148</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898207813</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898207758</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898207407</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898207337</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898207220</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898207150</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898206784</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898206715</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898206582</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898206513</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898206349</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898206279</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898205975</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898205839</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898205644</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898205575</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898205227</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898205157</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898204323</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247898203847</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897520404</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897520335</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897520218</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897520148</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897520031</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519962</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519845</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519775</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519674</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519604</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519503</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519433</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519332</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897519277</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518724</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518655</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518538</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897518468</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517961</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517891</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517774</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517705</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517588</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517518</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517417</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517347</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517230</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517160</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897517059</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516989</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516872</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516803</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516701</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516632</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516530</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897516461</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515971</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515900</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515768</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515698</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515565</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515495</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515362</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515292</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515175</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897515105</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514973</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514903</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514786</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514715</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514412</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514342</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514225</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514155</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897514038</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513968</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>6</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513851</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513782</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513680</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513611</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513494</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513424</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513323</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897513253</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512730</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512660</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512543</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512474</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512341</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897512271</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511967</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511897</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511593</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511523</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511219</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511165</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897511032</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510962</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510861</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510791</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510690</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510619</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510502</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510432</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510129</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897510058</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509941</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509871</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509739</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509669</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509536</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509466</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509333</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509263</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509115</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897509045</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897508881</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897508811</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897508647</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897508577</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897102063</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101994</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101487</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101418</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101285</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897101215</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100710</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100641</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100508</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100438</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100321</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897100251</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099931</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099861</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099729</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099660</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099543</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099473</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099340</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099286</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099153</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897099099</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>6</int> 
+    </void> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098966</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098896</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098779</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098710</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098592</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098523</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098406</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897098336</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097862</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097792</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097348</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097277</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097176</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097106</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897097005</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096935</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096834</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096764</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096663</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096593</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897096040</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095969</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095852</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095782</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095665</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095595</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095290</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095220</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095103</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897095033</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897094900</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897094830</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897094431</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897094377</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897094041</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093971</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093854</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093785</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093652</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093597</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093262</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093192</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093075</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897093005</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092873</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092803</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092296</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092225</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092093</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897092023</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091516</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091446</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091313</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091243</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091111</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897091041</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897090908</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897090838</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897090705</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897090635</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897090487</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897090417</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897089909</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897089808</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897089628</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897089449</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897089253</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897088980</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897088050</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897086715</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897085489</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247897084029</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896709162</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896709091</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708990</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708919</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708802</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708732</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708631</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708576</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708272</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708202</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708085</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896708016</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707913</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707844</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707742</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707672</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707571</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707501</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707400</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707330</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707244</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707174</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707073</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896707018</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706917</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706847</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706745</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706675</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706573</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706503</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706402</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706331</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706246</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706175</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706074</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896706004</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705902</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705832</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705730</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705660</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705559</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705489</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705356</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896705286</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896704966</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896704896</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896704748</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896704677</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896704170</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896703584</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896700876</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896696420</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896562572</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896562501</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896562074</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896562005</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561919</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561849</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561763</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561694</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561608</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561538</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561437</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561367</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561282</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561212</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561126</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896561057</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560971</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560902</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560800</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560731</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560645</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560590</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560489</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560434</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560317</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560247</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560146</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896560076</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896559803</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896559733</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896559631</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896559561</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896559053</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896558920</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896558757</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896558671</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896558475</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896558342</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896557539</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896557374</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896557226</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896557047</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896556852</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896556313</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896553215</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896549585</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896546487</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247896542012</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895900737</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895895046</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127799</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127730</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127644</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127574</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127488</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127426</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127316</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127255</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127111</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895127049</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126947</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126869</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126783</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126729</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126628</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126557</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126472</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126401</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126315</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126245</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126159</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126090</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="line"> 
+     <int>5</int> 
+    </void> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895126004</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125934</long> 
+     </object> 
+    </void> 
+    <void property="successCount"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125847</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125793</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125505</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125451</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125312</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125258</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125125</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895125055</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124970</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124899</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124814</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124744</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124658</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124588</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124502</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124448</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124346</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124292</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124170</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124099</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895124014</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123943</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123856</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123785</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123700</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123629</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123544</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123473</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123313</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123258</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895123003</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122933</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122831</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122762</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122660</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122606</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122209</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122155</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895122022</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895121952</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895121773</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895121703</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895121368</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247895120892</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894610146</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894610076</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609990</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609920</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609850</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609781</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609695</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609625</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609555</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609485</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609400</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609330</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609244</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609175</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609089</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894609019</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608933</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608864</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608778</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608708</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608623</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608553</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608467</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608398</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608312</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608242</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608156</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608087</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Dog®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894608017</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607947</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607861</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607791</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607721</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607651</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607565</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607496</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607426</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607356</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607270</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607201</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607130</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894607061</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606991</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606921</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606851</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606781</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606695</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606626</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606540</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606470</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606385</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606315</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606229</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606160</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606058</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894606000</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Puppy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605898</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605840</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605707</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605637</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605395</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894605325</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604724</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604638</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604209</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604140</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894604054</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603999</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603898</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603828</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603742</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603672</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603586</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603516</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603258</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603188</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603102</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894603032</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602946</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602876</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602790</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602721</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602635</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602565</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602479</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602409</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602120</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894602050</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Cat®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894601949</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894601878</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894601777</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247894601722</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890630494</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890628831</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="cn.clxy.game.tetris.model.Score"> 
+    <void property="name"> 
+     <string>Pussy®</string> 
+    </void> 
+    <void property="overTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890627435</long> 
+     </object> 
+    </void> 
+    <void property="startTime"> 
+     <object class="java.util.Date"> 
+      <long>1247890624728</long> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

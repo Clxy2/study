@@ -1,0 +1,14 @@
+{
+    "name": "zf2-tutorial",
+    "description": "Skeleton Application for ZF2",
+    "license": "",
+    "keywords": [
+        "framework",
+        "zf2"
+    ],
+    "homepage": "http://clxystudios.appspot.com/",
+    "require": {
+        "php": ">=5.5.7",
+        "zendframework/zendframework": "2.2.*"
+    }
+}

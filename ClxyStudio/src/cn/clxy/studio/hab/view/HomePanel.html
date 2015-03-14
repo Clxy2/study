@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:wicket="http://wicket.apache.org/dtds.data/wicket-xhtml1.4-strict.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Insert title here</title>
+</head>
+<body>
+	<wicket:panel>
+		<h1>家計簿</h1>
+		<div wicket:id="tabs" class="tabs">[tabbed panel will be here]</div>
+		<script>
+			$(function() {
+				$(".tab-panel").resizable({
+					minWidth : $('.tab-row').width(),
+					minHeight : $(".tab-panel").height()
+				});
+			});
+		</script>
+	</wicket:panel>
+</body>
+</html>

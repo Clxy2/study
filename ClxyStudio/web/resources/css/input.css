@@ -1,0 +1,123 @@
+@CHARSET "UTF-8";
+
+/**
+ * ==----------------------------------- ALL
+ */
+input,textarea {
+	padding: 4px;
+	border: solid 1px #E5E5E5;
+	outline: 0;
+	background: #FFFFFF left top repeat-x;
+	background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF),
+		color-stop(4%, #EEEEEE), to(#FFFFFF) );
+	background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+}
+
+input:hover,textarea:hover,input:focus,textarea:focus {
+	border-color: #C9C9C9;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px;
+}
+
+/**
+ * ==----------------------------------- BUTTON
+ 
+ 	Color:	{none}, orange, pink, blue, green, disabled 
+ */
+input[type="button"] {
+	display: inline-block;
+	vertical-align: baseline;
+	margin: 0 2px;
+	outline: none;
+	cursor: pointer;
+	padding: .5em 1em .55em;
+	/*text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);*/
+	border-radius: .3em;
+	border: solid 1px transparent;
+	font-weight: bold;
+	transition: background .2s ease-in-out;
+	color: rgba(0, 0, 0, 0.8) !important;
+	background-color: hsl(0, 0%, 75%);
+	box-shadow: inset rgba(255, 254, 255, 0.6) 0 0.3em .3em, inset
+		rgba(0, 0, 0, 0.15) 0 -0.1em .1em, /* inner shadow */    
+				 hsl(0, 0%, 60%) 0 .1em 3px, hsl(0, 0%, 45%) 0 .1em 1px;
+	/* color border */ rgba (0, 0, 0, 0.2) 0 .5em 3px; /* drop shadow */
+	background-image: -webkit-gradient(radial, 50% 0, 100, 50% 0, 0, from(rgba(255, 255, 255,
+		0) ), to(rgba(255, 255, 255, 0.7) ) );
+	background-image: -moz-radial-gradient(top, ellipse cover, rgba(255, 255, 255, 0.7)
+		0%, rgba(255, 255, 255, 0) 100% );
+	background-image: gradient(radial, 50% 0, 100, 50% 0, 0, from(rgba(255, 255, 255, 0)
+		), to(rgba(255, 255, 255, 0.7) ) );
+}
+
+input[type="button"]:hover {
+	background-color: hsl(0, 0%, 83%);
+}
+
+input[type="button"]:active {
+	box-shadow: inset rgba(255, 255, 255, 0.6) 0 0.3em .3em, inset
+		rgba(0, 0, 0, 0.2) 0 -0.1em .3em, /* inner shadow */   
+				 rgba(0, 0, 0, 0.4) 0 .1em 1px, /* border */  
+				 rgba(0, 0, 0, 0.2) 0 .2em 6px; /* drop shadow */
+	position: relative;
+	top: 2px;
+}
+
+input[type="button"]:focus {
+	outline: none;
+	text-shadow: rgba(0, 0, 0, 0.2) 0 1px 2px;
+}
+
+/* orange */
+input[type="button"].orange {
+	background-color: hsl(39, 100%, 50%);
+}
+
+input[type="button"].orange:hover {
+	background-color: hsl(39, 100%, 65%);
+}
+
+/* blue */
+input[type="button"].blue {
+	background-color: hsl(208, 100%, 65%);
+}
+
+input[type="button"].blue:hover {
+	background-color: hsl(208, 100%, 75%);
+}
+
+/* green */
+input[type="button"].green {
+	background-color: hsl(88, 70%, 55%);
+}
+
+input[type="button"].green:hover {
+	background-color: hsl(88, 70%, 75%);
+}
+
+/* pink */
+input[type="button"].pink {
+	background-color: hsl(340, 100%, 75%);
+}
+
+input[type="button"].pink:hover {
+	background-color: hsl(340, 100%, 83%);
+}
+
+input[type="button"][disabled],input[type="button"][disabled]:hover,input[type="button"][disabled]:focus,input[type="button"][disabled]:active
+	{
+	opacity: 1;
+	cursor: default;
+	color: rgba(0, 0, 0, 0.5) !important;
+	text-shadow: none !important;
+	background-color: rgba(0, 0, 0, 0.05);
+	background-image: none;
+	border-top: none;
+	box-shadow: inset rgba(255, 254, 255, 0.4) 0 0.3em .3em, inset
+		rgba(0, 0, 0, 0.1) 0 -0.1em .3em, /* inner shadow */   
+				 rgba(0, 0, 0, 0.3) 0 .1em 1px, /* border */  
+				 rgba(0, 0, 0, 0.2) 0 .2em 6px; /* drop shadow */
+	top: 0px;
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datastore-indexes autoGenerate="false">
+	<datastore-index kind="reputation" ancestor="false" source="manual">
+		<property name="site" direction="asc" />
+		<property name="update" direction="desc" />
+	</datastore-index>
+ </datastore-indexes>

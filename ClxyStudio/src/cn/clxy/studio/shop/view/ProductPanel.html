@@ -1,0 +1,41 @@
+<html>
+<body>
+	<wicket:panel>
+		<h1>Product</h1>
+		<div wicket:id="feedback" class="feedback"></div>
+		<form wicket:id="form">
+			<h3>Product</h3>
+			<p>Please enter your Product.</p>
+			<table>
+				<tr>
+					<th>Name</th>
+					<td><input wicket:id="name" type="text" />
+					</td>
+				</tr>
+				<tr>
+					<th>Description</th>
+					<td><input wicket:id="description" type="text" />
+					</td>
+				</tr>
+				<tr>
+					<th>Price</th>
+					<td><input wicket:id="price" type="text" />
+					</td>
+				</tr>
+				<!-- 
+				<tr>
+					<th>Image</th>
+					<td><input wicket:id="image" type="text" /></td>
+				</tr>
+				 -->
+				<tr>
+					<th>&nbsp;</th>
+					<td><input type="button" wicket:id="cancel" value="Cancel" />
+						<input type="submit" wicket:id="save" value="Save!" />
+					</td>
+				</tr>
+			</table>
+		</form>
+	</wicket:panel>
+</body>
+</html>

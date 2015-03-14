@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/cdi-api.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/myfaces-api-2.1.5.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/myfaces-impl-2.1.5.jar" sourcepath="D:/Java/3rd/apache-myfaces/myfaces-impl-2.1.5-sources.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/weld-servlet.jar"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="output" path="web/WEB-INF/classes"/>
+</classpath>

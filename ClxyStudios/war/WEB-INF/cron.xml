@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/refreshReputation.json</url>
+		<description>fetch reputation from every QA site.</description>
+		<!-- <schedule>every 1 minutes</schedule> -->
+		<schedule>every sunday 23:00</schedule>
+		<timezone>Asia/Shanghai</timezone>
+		<target>backend</target>
+	</cron>
+	<!--
+	<cron>
+		<url>/mooncar/refresh.json</url>
+		<description>fetch data from web side.</description>
+		<schedule>every sunday 9:10</schedule>
+		<timezone>Asia/Shanghai</timezone>
+		<target>backend</target>
+	</cron>
+	-->
+</cronentries>

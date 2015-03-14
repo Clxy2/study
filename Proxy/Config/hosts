@@ -1,0 +1,101 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+203.208.39.104 clxystudio.appspot.com
+
+###################### Facebook IPv6 #####################
+2620::1cfe:face:b00c:0:0:4 login.v6.facebook.com
+2620::1cfe:face:b00c:0:0:3 www.v6.facebook.com
+
+###################### Google IPv6 #####################
+##Google.com Google.com
+
+2404:6800:8005::2e www.google.com.hk
+#2a00:1450:8006::30 www.google.co.jp
+2404:6800:8005::54 accounts.google.com
+2404:6800:8005::65 services.google.com
+
+#Docs
+2404:6800:8005::64 docs.google.com
+2404:6800:8005::65 docs0.google.com
+2404:6800:8005::65 docs1.google.com
+2404:6800:8005::65 docs2.google.com
+2404:6800:8005::65 docs3.google.com
+2404:6800:8005::65 docs4.google.com
+2404:6800:8005::65 docs5.google.com
+2404:6800:8005::65 docs6.google.com
+2404:6800:8005::65 docs7.google.com
+2404:6800:8005::65 docs8.google.com
+2404:6800:8005::65 docs9.google.com
+2404:6800:8005::62 spreadsheet.google.com
+2404:6800:8005::62 spreadsheets.google.com
+2404:6800:8005::62 spreadsheets0.google.com
+2404:6800:8005::62 spreadsheets1.google.com
+2404:6800:8005::62 spreadsheets2.google.com
+2404:6800:8005::62 spreadsheets3.google.com
+2404:6800:8005::62 spreadsheets4.google.com
+2404:6800:8005::62 spreadsheets5.google.com
+2404:6800:8005::62 spreadsheets6.google.com
+2404:6800:8005::62 spreadsheets7.google.com
+2404:6800:8005::62 spreadsheets8.google.com
+2404:6800:8005::62 spreadsheets9.google.com
+2404:6800:8005::62 spreadsheets.l.google.com
+2404:6800:8005::62 spreadsheets-china.l.google.com
+2404:6800:8005::62 writely.google.com
+2404:6800:8005::62 writely.l.google.com
+2404:6800:8005::62 writely-com.l.google.com
+
+#Blogger
+2404:6800:8005::bf www.blogger.com
+2404:6800:8005::bf blogger.com
+2404:6800:8005::bf buttons.blogger.com
+2404:6800:8005::bf beta.blogger.com
+2404:6800:8005::bf draft.blogger.com
+2404:6800:8005::bf status.blogger.com
+2404:6800:8005::bf help.blogger.com
+2404:6800:8005::bf buzz.blogger.com
+2404:6800:8005::bf photos1.blogger.com
+2404:6800:8005::bf bp0.blogger.com
+2404:6800:8005::bf bp1.blogger.com
+2404:6800:8005::bf bp2.blogger.com
+2404:6800:8005::bf bloggerphotos.l.google.com
+2404:6800:8005::62 blogger.google.com
+2404:6800:8005::62 www2.blogger.com
+2404:6800:8005::62 blogger.l.google.com
+2404:6800:8005::62 www.blogblog.com
+2404:6800:8005::62 www1.blogblog.com
+2404:6800:8005::62 www2.blogblog.com
+2404:6800:8005::62 img.blogblog.com
+2404:6800:8005::62 img1.blogblog.com
+2404:6800:8005::62 img2.blogblog.com
+2404:6800:8005::62 img.blshe.com
+
+#Blogspot
+2404:6800:8005::62 www.blogspot.com
+2404:6800:8005::62 blogsofnote.blogspot.com
+2404:6800:8005::62 knownissues.blogspot.com
+2404:6800:8005::62 1.bp.blogspot.com #
+2404:6800:8005::62 2.bp.blogspot.com #
+2404:6800:8005::62 3.bp.blogspot.com #
+2404:6800:8005::62 4.bp.blogspot.com #
+2404:6800:8005::62 bloggertemplatespreview.blogspot.com
+2404:6800:8005::62 clxy-actor.blogspot.com #

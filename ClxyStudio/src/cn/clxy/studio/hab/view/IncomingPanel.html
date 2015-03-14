@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:wicket="http://wicket.apache.org/dtds.data/wicket-xhtml1.4-strict.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Insert title here</title>
+</head>
+<body>
+	<wicket:panel>
+		<h2>収入入力-Input Incoming</h2>
+		<table>
+			<tbody>
+				<tr>
+					<td>定期的：</td>
+					<td>
+						<input type="radio" value="0" id="noPeriodical" name="periodical" checked="checked" />
+						<label for="noPeriodical">いいえ</label>
+						<input type="radio" value="1" id="periodical" name="periodical" />
+						<label for="periodical">はい</label>
+						頻度：
+						<select>
+							<option>週</option>
+							<option>月</option>
+							<option>年</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>日付：</td>
+					<td><input type="text" autofocus="true"	placeholder="yyyy.mm.dd" /></td>
+				</tr>
+				<tr>
+					<td>項目：</td>
+					<td><input type="text" size="40" /></td>
+				</tr>
+				<tr>
+					<td>詳細：</td>
+					<td><input type="text" size="40" />
+					</td>
+				</tr>
+				<tr>
+					<td>金額：</td>
+					<td><input type="text" size="40" /></td>
+				</tr>
+				<tr>
+					<td>コメント：</td>
+					<td><textarea></textarea></td>
+				</tr>
+			</tbody>
+		</table>
+	</wicket:panel>
+</body>
+</html>

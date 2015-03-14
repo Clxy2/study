@@ -1,0 +1,103 @@
+﻿-- 股票接口
+	== JS
+	- 新浪 http://hq.sinajs.cn/list=sh601003,sh601001
+		http://www.21andy.com/new/20090530/1313.html
+	- 和讯 http://bdcjhq.hexun.com/quote?s2=000001.sh,399001.sz,399300.sz,601186.sh
+	- google http://finance.google.com/finance/info?client=ig&q=SHA:601398
+	== 中国股票行情数据 WEB 服务 XML
+	- http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx
+	
+-- spring mvc ServletContext
+	- Spring管理的类里很简单 @resource ServletContext sc;即可
+	- 非Spring管理的类里很麻烦。WebUtil里的处理是Servlet初始化时拿到，赋值给WebUtil。
+
+-- 命名上尽量避开使用(含有)Java的保留字，关键字及通用字。比如：class，package等。
+	- 不好查询。
+	- 容易误解。
+
+-- Javascript模板技术选择
+	- nano.js 简单！真.简单！
+		https://github.com/trix/nano
+	- mustache.js 和上面的handlebars.js实在太相似。一样有Sections的tag. 更logic-less些？那样好。
+		https://github.com/janl/mustache.js
+	- pure 纯javascript。好！稍稍繁琐。
+		http://beebole.com/pure/
+
+	- underscore 不用jQuery的话，可以...
+		http://underscorejs.org
+	- handlebars.js 不是很喜欢它的tag {{#kids}}{{name}} is {{age}}{{/kids}}
+		https://github.com/wycats/handlebars.js/
+	- dust 3年前停止更新。
+		https://github.com/akdubya/dustjs
+	- google-jstemplate 可视化虽然好。当属性实在太繁琐。
+		<li jsinstance="0" jstcache="2" jsselect="favs" jscontent="$this">raindrops</li>
+	- google-closure-templates
+		不喜欢！
+	-  jQote2 2年前停止更新。
+	- KiTE 类似mustache.js等。
+
+-- GAE的cron，需要上传个空的cron.xml才能删除旧的。
+
+-- GAE的数据存储配额(免费)
+	读写分别是5万次，该次数包括所有操作。
+	比如写入一个对象，会发生1.该对象写入，2.索引写入，3.整合写入(不知道是什么)。
+	通常 5万/3 = 1.6万个对象。
+	如果有对象嵌套，会更加消耗写入次数。
+
+-- GAE的Memcache
+	上限是1M。当保存6M的Object时，先将Object转成byte[]，然后分割byte[]成小块put进memcache。
+	1. 当按1M分割时，只能放入最后2块。总大小在2.+M左右。
+	2. 当按950K分割时，能放入最后3块。总大小在2.5+M左右。
+	3. 当按100K分割时，能放入最后20+块。总大小在3.+M左右。
+	Sh**t!
+
+-- jqplot
+	多个数据序列时，如果数据序列个数不相同，需要将大的放在最后，不然抛Exception。
+
+-- Online文件解压缩
+	同一个文件，使用浏览器下载后可以正常解压缩。
+	A：使用jsoup.response.bodyAsBytes得到byte[]，用ByteArrayInputStream包装，unzip时抛EOFException
+	B：使用HttpURLConnection.getInputStream，unzip时正常。
+
+-- java.util.zip
+	直接压缩byte[]时，无法在解压缩时拿到size。
+
+-- Maven
+	GAE的Maven库有些问题。
+	要求版本3.1，但Eclipse自带的是3.0。
+	如果将Eclipse的升级到3.1，则其他又不好用！
+
+-- affix
+	> top 注意navbar的高度，通常+10。如果有scrollspy的话，offset设置同样高度。
+	> link点击时，内容高度不对，被navbar覆盖。	padding-top: navbar的高度; margin-top: 负值的navbar的高度;
+		官方主页css中有如下
+		/* Janky fix for preventing navbar from overlapping */
+		h1[id] {
+		  padding-top: 80px;
+		  margin-top: -45px;
+		}
+	> 滚动时，宽度改变。
+		检查各个@media里sidebar.affix的宽度。
+		修改成和初始宽带相同。
+		官方主页里抄来是
+		@media screen and (min-width: 1200px) {
+			/* Widen the fixed sidebar again */
+			.bs-sidebar.affix-bottom,.bs-sidebar.affix {
+				width: 263px;
+			}
+		修改成299px即可。
+
+-- grid
+	> 需要每行套个class="row"
+	> offset如果不起作用，检查是否动了margin的right或left。
+
+-- Colors
+	C:#0033CC-002080, L:#EC0000-A30001, X:#FFCC00-FF9900, Y:#6633CC-47248F
+
+-- GAE 1.8.5
+
+-- 不支持 UTF8 的Properties。
+	因为不支持java.util.ResourceBundle.Control这个类。
+
+-- 不支持 servlet 3.0
+	比如不能直接使用String的方法。

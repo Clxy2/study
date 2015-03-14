@@ -1,0 +1,55 @@
+@CHARSET "UTF-8";
+
+div.tabs {
+	min-height: 200px;
+	display: inline-block;
+	position: relative;
+}
+
+div.tabs div.tab-row ul {
+	height: 30px;
+	margin: 0;
+	padding-left: 10px;
+}
+
+div.tabs div.tab-row li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+	list-style-type: none;
+}
+
+div.tabs div.tab-row a:link,div.tabs div.tab-row a:visited {
+	float: left;
+	background-color: rgba(255, 255, 255, 0.1);
+	line-height: 24px;
+	font-weight: bold;
+	padding: 2px 10px 2px 10px;
+	margin-right: 4px;
+	border: 1px solid #ccc;
+	border-radius: 3px 3px 0px 0px;
+	text-decoration: none;
+	color: #666;
+	text-decoration: none;
+}
+
+div.tabs div.tab-row li.selected a:link,div.tabs div.tab-row a:visited.active
+	{
+	border-bottom: 1px solid #fff;
+	background-color: rgba(255, 255, 255, 0.7);
+	color: #000;
+}
+
+div.tabs div.tab-row a:hover {
+	background: #fff;
+}
+
+div.tab-panel {
+	width: 100%;
+	box-shadow: 0 3px 3px #999;
+	background-color: rgba(255, 255, 255, 0.7);
+	border-radius: 5px;
+	display: inline-block;
+	clear: left;
+	padding: 12px;
+}
